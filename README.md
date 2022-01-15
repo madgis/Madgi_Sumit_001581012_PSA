@@ -21,6 +21,3 @@ of virus in series of hosts who are either
  - Resolve any JAR related issues(if occured) by importing libraries from Jars folder
  - Run the Application
  - For further guide, you may take a look at the demo video
-
-## Link for Application Video Demo
-https://github.com/Aditya-Ganesh-S/PSA_ProjectVideo/tree/main
